@@ -106,3 +106,5 @@ Easily add `advancedInput` directive and choose `inputType`. You are done:
   </div>
 </form>
 ```
+## Demo
+https://stackblitz.com/edit/angular-ngx-advanced-input
