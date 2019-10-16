@@ -1,0 +1,23 @@
+{
+  "name": "ngx-advanced-input",
+  "version": "1.0.0",
+  "description" : "A simple library to allow/restrict characters when typing.",
+  "author": "Webforio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webforio/ngx-advanced-input.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "restrict",
+    "advanced-input",
+    "input",
+    "advanced"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}
